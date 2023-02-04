@@ -1,5 +1,5 @@
 {
-  "name": "app3",
+  "name": "react-stopwatch",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
