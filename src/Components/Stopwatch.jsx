@@ -61,6 +61,7 @@ class Stopwatch extends Component {
                 </h1>
                 <button id="startpause" onClick={(e) => this.startTime(e.target.innerText)}>Start</button>
                 <button onClick={this.stopTime}>Reset</button>
+                <h2>developed by evilAnshu</h2>
             </div>
         );
     }
